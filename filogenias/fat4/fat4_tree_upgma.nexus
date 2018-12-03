@@ -1,0 +1,43 @@
+#NEXUS
+
+BEGIN TREES;
+
+	TRANSLATE
+		1	Rhincodon_typus,
+		2	Xenopus_tropicalis,
+		3	Mus_musculus,
+		4	Pteropus_vampyrus,
+		5	Marmota_marmota_marmota,
+		6	Castor_canadensis,
+		7	Microcebus_murinus,
+		8	Callithrix_jacchus,
+		9	Pan_troglodytes,
+		10	Gorilla_gorilla_gorilla,
+		11	Homo_sapiens,
+		12	Macaca_mulatta,
+		13	Papio_anubis,
+		14	Ceratotherium_simum,
+		15	Equus_asinus,
+		16	Equus_caballus,
+		17	Equus_przewalskii,
+		18	Ursus_maritimus,
+		19	Canis_lupus_familiaris,
+		20	Felis_catus,
+		21	Bos_taurus,
+		22	Orcinus_orca,
+		23	Delphinapterus_leucas,
+		24	Alligator_mississippiensis,
+		25	Crocodylus_porosus,
+		26	Gavialis_gangeticus,
+		27	Pelodiscus_sinensis,
+		28	Chelonia_mydas,
+		29	Cyanistes_caeruleus,
+		30	Apteryx_australis_mantelli,
+		31	Struthio_camelus,
+		32	Gallus_gallus,
+		33	Columba_livia,
+		34	Falco_peregrinus
+		;
+	UTREE PAUP_1= ((Rhincodon_typus:0.152313,(Xenopus_tropicalis:0.118995,(((Mus_musculus:0.0436792,(Marmota_marmota_marmota:0.0326141,(Castor_canadensis:0.0309465,((Microcebus_murinus:0.0165998,(Callithrix_jacchus:0.0109383,((Pan_troglodytes:0.00326141,(Gorilla_gorilla_gorilla:0.00250878,Homo_sapiens:0.00250878):0.00326141):0.00857167,(Macaca_mulatta:0.00351229,Papio_anubis:0.00351229):0.00857167):0.0109383):0.0165998):0.0241237,(((Ceratotherium_simum:0.010286,(Equus_asinus:0.000752634,(Equus_caballus:0.000501756,Equus_przewalskii:0.000501756):0.000752634):0.010286):0.0166625,(Ursus_maritimus:0.00928249,(Canis_lupus_familiaris:0.0080281,Felis_catus:0.0080281):0.00928249):0.0166625):0.0204645,(Bos_taurus:0.0180632,(Orcinus_orca:0.0022579,Delphinapterus_leucas:0.0022579):0.0180632):0.0204645):0.0241237):0.0309465):0.0326141):0.0436792):0.0488836,Pteropus_vampyrus:0.0488836):0.084333,(((Alligator_mississippiensis:0.00689915,(Crocodylus_porosus:0.00426493,Gavialis_gangeticus:0.00426493):0.00689915):0.0438618,(Pelodiscus_sinensis:0.0248369,Chelonia_mydas:0.0248369):0.0438618):0.0551096,(((Cyanistes_caeruleus:0.0292273,(Columba_livia:0.0188159,Falco_peregrinus:0.0188159):0.0292273):0.0333668,Gallus_gallus:0.0333668):0.0349661,(Apteryx_australis_mantelli:0.0153036,Struthio_camelus:0.0153036):0.0349661):0.0551096):0.084333):0.118995):0.152313):0.152313);
+
+ENDBLOCK;

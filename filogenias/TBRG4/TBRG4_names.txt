@@ -1,0 +1,33 @@
+pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description
+129039at7742	protein TBRG4	7742	10090_0	Mus musculus	10090_0:003769	Tbrg4	FAST kinase domain-containing protein 4
+129039at7742	protein TBRG4	7742	132908_0	Pteropus vampyrus	132908_0:004584	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	13735_0	Pelodiscus sinensis	13735_0:0031ec	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	202946_0	Apteryx australis mantelli	202946_0:002654	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	259920_0	Rhincodon typus	259920_0:000268	tbrg4	protein TBRG4 isoform X1
+129039at7742	protein TBRG4	7742	29073_0	Ursus maritimus	29073_0:00349b	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	30608_0	Microcebus murinus	30608_0:00281d	TBRG4	protein TBRG4 isoform X1
+129039at7742	protein TBRG4	7742	441894_0	Struthio camelus	441894_0:002e1e	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	51338_0	Castor canadensis	51338_0:001938	TBRG4	Protein TBRG4
+129039at7742	protein TBRG4	7742	73337_0	Ceratotherium simum	73337_0:003b55	LOC101393240	protein TBRG4
+129039at7742	protein TBRG4	7742	8364_0	Xenopus tropicalis	8364_0:002a29	tbrg4	FAST kinase domain-containing protein 4
+129039at7742	protein TBRG4	7742	8469_0	Chelonia mydas	8469_0:002f64	M7AXW2_CHEMY	Protein TBRG4
+129039at7742	protein TBRG4	7742	8496_0	Alligator mississippiensis	8496_0:000c33	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	8932_0	Columba livia	8932_0:002f8a	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	8954_0	Falco peregrinus	8954_0:000396	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9031_0	Gallus gallus	9031_0:000cb9	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	9483_0	Callithrix jacchus	9483_0:002318	TBRG4	LOW QUALITY PROTEIN: protein TBRG4
+129039at7742	protein TBRG4	7742	94835_0	Gavialis gangeticus	94835_0:0013ac	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9544_0	Macaca mulatta	9544_0:0010fe	TBRG4	protein TBRG4 isoform X1
+129039at7742	protein TBRG4	7742	9555_0	Papio anubis	9555_0:000f00	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	9595_0	Gorilla gorilla gorilla	9595_0:00212c	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	9598_0	Pan troglodytes	9598_0:0020d2	A0A2J8L9B2_PANTR;TBRG4	TBRG4 isoform 10
+129039at7742	protein TBRG4	7742	9606_0	Homo sapiens	9606_0:00204a	B3KM73_HUMAN;B3KRS4_HUMAN;B4DU42_HUMAN;TBRG4	cDNA FLJ10419 fis, clone NT2RP1000163, highly similar to Homo sapiens transforming growth factor beta regulator 4 (TBRG4), transcript variant 3, mRNA
+129039at7742	protein TBRG4	7742	9615_0	Canis lupus familiaris	9615_0:004dbb	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	9685_0	Felis catus	9685_0:000b31	TBRG4	protein TBRG4 isoform X1
+129039at7742	protein TBRG4	7742	9733_0	Orcinus orca	9733_0:003bb6	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9749_0	Delphinapterus leucas	9749_0:002850	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9793_0	Equus asinus	9793_0:0042d5	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9796_0	Equus caballus	9796_0:000e03	TBRG4	Transforming growth factor beta regulator 4
+129039at7742	protein TBRG4	7742	9798_0	Equus przewalskii	9798_0:00224f	TBRG4	protein TBRG4
+129039at7742	protein TBRG4	7742	9913_0	Bos taurus	9913_0:000bd2	TBRG4	FAST kinase domain-containing protein 4
+129039at7742	protein TBRG4	7742	9994_0	Marmota marmota marmota	9994_0:002568	Tbrg4	protein TBRG4 isoform X1
