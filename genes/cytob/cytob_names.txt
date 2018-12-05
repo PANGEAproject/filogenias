@@ -1,0 +1,30 @@
+pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description
+270380at7742	cytochrome b	7742	10090_0	Mus musculus	10090_0:000002	Mt-Cyb;mt-Cytb	Cytochrome b
+270380at7742	cytochrome b	7742	10141_0	Cavia porcellus	10141_0:004e55	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	13735_0	Pelodiscus sinensis	13735_0:004b2c	Q6B3C5_PELSI	Cytochrome b
+270380at7742	cytochrome b	7742	259920_0	Rhincodon typus	259920_0:005563	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	29073_0	Ursus maritimus	29073_0:004bbd	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	30608_0	Microcebus murinus	30608_0:0050c7	cob;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	441894_0	Struthio camelus	441894_0:0038db	MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	73337_0	Ceratotherium simum	73337_0:004e13	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	8364_0	Xenopus tropicalis	8364_0:005293	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	8469_0	Chelonia mydas	8469_0:004554	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	8496_0	Alligator mississippiensis	8496_0:004a41	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	8502_0	Crocodylus porosus	8502_0:0039a5	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	8932_0	Columba livia	8932_0:003d4f	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	8954_0	Falco peregrinus	8954_0:0039ee	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	9031_0	Gallus gallus	9031_0:004a88	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	94835_0	Gavialis gangeticus	94835_0:00380f	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	9544_0	Macaca mulatta	9544_0:0053a4	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9555_0	Papio anubis	9555_0:00533a	cytb	Cytochrome b
+270380at7742	cytochrome b	7742	9595_0	Gorilla gorilla gorilla	9595_0:00538c	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	9598_0	Pan troglodytes	9598_0:00558a	MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9606_0	Homo sapiens	9606_0:000006	CYB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9615_0	Canis lupus familiaris	9615_0:004edb	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9685_0	Felis catus	9685_0:004e4b	MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9733_0	Orcinus orca	9733_0:0046e2	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	9749_0	Delphinapterus leucas	9749_0:004898	CYTB	cytochrome b
+270380at7742	cytochrome b	7742	9793_0	Equus asinus	9793_0:004fdd	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9796_0	Equus caballus	9796_0:00531f	CYTB;MT-CYB	Cytochrome b
+270380at7742	cytochrome b	7742	9798_0	Equus przewalskii	9798_0:00536f	CYTB	Cytochrome b
+270380at7742	cytochrome b	7742	9913_0	Bos taurus	9913_0:0052b9	cytb;MT-CYB	Cytochrome b
